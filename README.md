@@ -1,8 +1,5 @@
 <h1 align="center">Hey There 🐧 I'm Alicia Chua</h1>
 <h3 align="center">a Computer Science student (expected graduating in Jan 26')in</h3>
-
-- ☎️ You can also find me on LinkedIn [linkedin.com/in/alicia-chua-682a981aa](linkedin.com/in/alicia-chua-682a981aa)
-
 - 📫 How to reach me **aliciachuaxw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
