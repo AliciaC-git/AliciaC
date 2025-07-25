@@ -1,6 +1,19 @@
-<h1 align="center">Hey There 🐧 I'm Alicia Chua</h1>
-<h3 align="center">a Computer Science student (expected graduating in Jan 26')in</h3>
-- 📫 How to reach me **aliciachuaxw@gmail.com**
+<h1 align="center">Hey there! 👋 I'm Alicia Chua</h1>
+<h3 align="center">Final Year Computer Science Student | Passionate about Web & Software Development</h3>
+
+### 🧑‍💻 About Me
+
+I’m a final trimester Computer Science student passionate about turning ideas into real-world applications.  
+I enjoy exploring both front-end and back-end development, and I’m currently deepening my skills in software testing.  
+I’m always eager to learn, whether working independently or in a team setting.
+
+<p align="center">
+🎓 Expected Graduation: January 2026 <br>
+💻 Focused on building responsive applications, software testing, and continuous learning <br>
+🤝 Able to work independently or collaborate effectively in a team <br>
+📫 Reach me at: <a href="mailto:aliciachuaxw@gmail.com">aliciachuaxw@gmail.com</a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
